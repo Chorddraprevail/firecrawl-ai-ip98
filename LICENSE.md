@@ -1,4 +1,4 @@
-# 
+# Smart Firecrawl scripts. Featuring contextual-memory and knowledge-graphs — optimized for maximum performance and efficiency.
 
 
 
